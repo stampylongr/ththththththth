@@ -9,13 +9,14 @@ export default class Body extends React.Component {
         <p>Hey! Sorry for the lack of... anything.</p>
         <hr />
         <p>
-          The Mint Farm is gone for now, due to my ISP terminating our
-          subscription. We are planning to move to a local ISP, so The Mint Farm{" "}
-          <em>might</em> come back in the near future.
+          The Mint Farm is gone for good now, due to my ISP terminating our
+          subscription.
         </p>
-        <p>But for now, nothing.</p>
         <hr />
-        <p>P.S. if you need to contact me, use any of these services below:</p>
+        <p>
+          P.S. if you need to contact me, try to find me through any of the
+          following services:
+        </p>
         <Profiles />
       </main>
     );
