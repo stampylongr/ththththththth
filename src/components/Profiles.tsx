@@ -16,7 +16,7 @@ export default class Profiles extends React.Component {
             <FontAwesomeIcon icon={["fab", "github-alt"]} /> GH Enterprise
           </h3>
           <a href="//becausetrigger.ga/lunaisnotaboy">
-            (becausetrigger.ga/lunaisnotaboy)
+            (personal ghe account)
           </a>
         </li>
         <li>
