@@ -9,13 +9,21 @@ export default class Profiles extends React.Component {
           <h3>
             <FontAwesomeIcon icon={["fab", "github"]} /> GitHub
           </h3>
-          <a href="//github.com/stampylongr">(github.com/stampylongr)</a>
+          <a href="//github.com/lunaisnotaboy">(github.com/lunaisnotaboy)</a>
         </li>
         <li>
           <h3>
-            <FontAwesomeIcon icon={["fab", "dev"]} /> DEV
+            <FontAwesomeIcon icon={["fab", "github-alt"]} /> GitHub Enterprise
           </h3>
-          <a href="https://dev.to/stampylongr">(dev.to/stampylongr)</a>
+          <a href="//becausetrigger.ga/lunaisnotaboy">
+            (becausetrigger.ga/lunaisnotaboy)
+          </a>
+        </li>
+        <li>
+          <h3>
+            <FontAwesomeIcon icon={["fab", "twitter"]} /> Twitter
+          </h3>
+          <a href="//twitter.com/lunaisnotaboy">(twitter.com/lunaisnotaboy)</a>
         </li>
         <li>
           <h3>
