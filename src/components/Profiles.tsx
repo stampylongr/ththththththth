@@ -13,10 +13,10 @@ export default class Profiles extends React.Component {
         </li>
         <li>
           <h3>
-            <FontAwesomeIcon icon={["fab", "github-alt"]} /> GH Enterprise
+            <FontAwesomeIcon icon={["fab", "gitlab"]} /> glimmerhq
           </h3>
-          <a href="//becausetrigger.ga/lunaisnotaboy">
-            (my personal ghe account)
+          <a href="//glimmerhq.com/luna">
+            (my personal glimmerhq account)
           </a>
         </li>
         <li>
